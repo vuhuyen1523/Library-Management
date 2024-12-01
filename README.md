@@ -19,7 +19,7 @@
 - Cài đặt SQL Server.
 ### Cài đặt
 - Clone repo:
-    git clone https://github.com/username/Library-Management.git
+    git clone https://github.com/vuhuyen1523/Library-Management.git
     cd library-management-system
 - Khôi phục database:
     Mở SQL Server Management Studio (SSMS).
