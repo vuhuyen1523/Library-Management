@@ -1,4 +1,4 @@
-# HỆ THỐNG UẢN LÝ THƯ VIỆN
+# HỆ THỐNG QUẢN LÝ THƯ VIỆN
 Đây là một hệ thống quản lý thư viện được phát triển bằng C# nhằm hỗ trợ quản lý sách, người dùng và các giao dịch mượn/trả sách trong môi trường trường học. Hệ thống cung cấp giao diện thân thiện và dễ sử dụng cho quản trị viên và học sinh.
 
 ## Tính năng
