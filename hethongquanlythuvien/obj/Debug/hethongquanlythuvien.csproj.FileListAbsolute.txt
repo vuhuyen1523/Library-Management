@@ -1,0 +1,42 @@
+C:\Users\LAN ANH\source\repos\hethongquanlythuvien\hethongquanlythuvien\bin\Debug\hethongquanlythuvien.exe.config
+C:\Users\LAN ANH\source\repos\hethongquanlythuvien\hethongquanlythuvien\bin\Debug\hethongquanlythuvien.exe
+C:\Users\LAN ANH\source\repos\hethongquanlythuvien\hethongquanlythuvien\bin\Debug\hethongquanlythuvien.pdb
+C:\Users\LAN ANH\source\repos\hethongquanlythuvien\hethongquanlythuvien\obj\Debug\hethongquanlythuvien.csproj.AssemblyReference.cache
+C:\Users\LAN ANH\source\repos\hethongquanlythuvien\hethongquanlythuvien\obj\Debug\hethongquanlythuvien.frmbcdocgia.resources
+C:\Users\LAN ANH\source\repos\hethongquanlythuvien\hethongquanlythuvien\obj\Debug\hethongquanlythuvien.frmbcsach.resources
+C:\Users\LAN ANH\source\repos\hethongquanlythuvien\hethongquanlythuvien\obj\Debug\hethongquanlythuvien.frmDangNhap.resources
+C:\Users\LAN ANH\source\repos\hethongquanlythuvien\hethongquanlythuvien\obj\Debug\hethongquanlythuvien.frmDocgia.resources
+C:\Users\LAN ANH\source\repos\hethongquanlythuvien\hethongquanlythuvien\obj\Debug\hethongquanlythuvien.frmMuonsach.resources
+C:\Users\LAN ANH\source\repos\hethongquanlythuvien\hethongquanlythuvien\obj\Debug\hethongquanlythuvien.frmNhanvien.resources
+C:\Users\LAN ANH\source\repos\hethongquanlythuvien\hethongquanlythuvien\obj\Debug\hethongquanlythuvien.frmQLSach.resources
+C:\Users\LAN ANH\source\repos\hethongquanlythuvien\hethongquanlythuvien\obj\Debug\hethongquanlythuvien.frmtkdocgia.resources
+C:\Users\LAN ANH\source\repos\hethongquanlythuvien\hethongquanlythuvien\obj\Debug\hethongquanlythuvien.frmtksach.resources
+C:\Users\LAN ANH\source\repos\hethongquanlythuvien\hethongquanlythuvien\obj\Debug\hethongquanlythuvien.frmTrangChu.resources
+C:\Users\LAN ANH\source\repos\hethongquanlythuvien\hethongquanlythuvien\obj\Debug\hethongquanlythuvien.frmtrogiup.resources
+C:\Users\LAN ANH\source\repos\hethongquanlythuvien\hethongquanlythuvien\obj\Debug\hethongquanlythuvien.Properties.Resources.resources
+C:\Users\LAN ANH\source\repos\hethongquanlythuvien\hethongquanlythuvien\obj\Debug\hethongquanlythuvien.csproj.GenerateResource.cache
+C:\Users\LAN ANH\source\repos\hethongquanlythuvien\hethongquanlythuvien\obj\Debug\hethongquanlythuvien.csproj.CoreCompileInputs.cache
+C:\Users\LAN ANH\source\repos\hethongquanlythuvien\hethongquanlythuvien\obj\Debug\hethongquanlythuvien.exe
+C:\Users\LAN ANH\source\repos\hethongquanlythuvien\hethongquanlythuvien\obj\Debug\hethongquanlythuvien.pdb
+C:\Users\LAN ANH\source\repos\hethongquanlythuvien\hethongquanlythuvien\obj\Debug\hethongquanlythuvien.frmTrasach.resources
+C:\Users\admin\Desktop\hethongquanlythuvien\hethongquanlythuvien\bin\Debug\hethongquanlythuvien.exe.config
+C:\Users\admin\Desktop\hethongquanlythuvien\hethongquanlythuvien\bin\Debug\hethongquanlythuvien.exe
+C:\Users\admin\Desktop\hethongquanlythuvien\hethongquanlythuvien\bin\Debug\hethongquanlythuvien.pdb
+C:\Users\admin\Desktop\hethongquanlythuvien\hethongquanlythuvien\obj\Debug\hethongquanlythuvien.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\hethongquanlythuvien\hethongquanlythuvien\obj\Debug\hethongquanlythuvien.frmbcdocgia.resources
+C:\Users\admin\Desktop\hethongquanlythuvien\hethongquanlythuvien\obj\Debug\hethongquanlythuvien.frmbcsach.resources
+C:\Users\admin\Desktop\hethongquanlythuvien\hethongquanlythuvien\obj\Debug\hethongquanlythuvien.frmDangNhap.resources
+C:\Users\admin\Desktop\hethongquanlythuvien\hethongquanlythuvien\obj\Debug\hethongquanlythuvien.frmDocgia.resources
+C:\Users\admin\Desktop\hethongquanlythuvien\hethongquanlythuvien\obj\Debug\hethongquanlythuvien.frmMuonsach.resources
+C:\Users\admin\Desktop\hethongquanlythuvien\hethongquanlythuvien\obj\Debug\hethongquanlythuvien.frmNhanvien.resources
+C:\Users\admin\Desktop\hethongquanlythuvien\hethongquanlythuvien\obj\Debug\hethongquanlythuvien.frmQLSach.resources
+C:\Users\admin\Desktop\hethongquanlythuvien\hethongquanlythuvien\obj\Debug\hethongquanlythuvien.frmtkdocgia.resources
+C:\Users\admin\Desktop\hethongquanlythuvien\hethongquanlythuvien\obj\Debug\hethongquanlythuvien.frmtksach.resources
+C:\Users\admin\Desktop\hethongquanlythuvien\hethongquanlythuvien\obj\Debug\hethongquanlythuvien.frmTrangChu.resources
+C:\Users\admin\Desktop\hethongquanlythuvien\hethongquanlythuvien\obj\Debug\hethongquanlythuvien.frmTrasach.resources
+C:\Users\admin\Desktop\hethongquanlythuvien\hethongquanlythuvien\obj\Debug\hethongquanlythuvien.frmtrogiup.resources
+C:\Users\admin\Desktop\hethongquanlythuvien\hethongquanlythuvien\obj\Debug\hethongquanlythuvien.Properties.Resources.resources
+C:\Users\admin\Desktop\hethongquanlythuvien\hethongquanlythuvien\obj\Debug\hethongquanlythuvien.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\hethongquanlythuvien\hethongquanlythuvien\obj\Debug\hethongquanlythuvien.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\hethongquanlythuvien\hethongquanlythuvien\obj\Debug\hethongquanlythuvien.exe
+C:\Users\admin\Desktop\hethongquanlythuvien\hethongquanlythuvien\obj\Debug\hethongquanlythuvien.pdb
